@@ -22,7 +22,7 @@ I am currently working on my **Final Year Project (FYP)**, which explores housin
 
 ## Short Video Introduction
 
-[Click here to watch my introduction video!](https://www.youtube.com/watch?v=1zmejYRMgMM&ab_channel=Ros-AdventureCat)
+{{< video https://www.youtube.com/watch?v=1zmejYRMgMM&ab_channel=Ros-AdventureCat width="600" height="400" >}}
 
 
 ## My Curriculum

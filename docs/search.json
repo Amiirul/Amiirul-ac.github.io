@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Personal Website",
     "section": "",
-    "text": "Hello! I’m Amiirul, a student at SIT studying Applied Artificial Intelligence. I’m passionate about technology, learning, and working on meaningful projects.\n\n\nI am currently working on my Final Year Project (FYP), which explores housing prices in Singapore with the help of AI. I’m deeply interested in Artificial Intelligence and Data Science. In my free time, I enjoy coding, photography, traveling, playing games.\n\n\n\n\n\n\nAmiirul’s Photo\n\n\n\n\n\nClick here to watch my introduction video!\n\n\n\nDuring my studies, I’ve completed courses in Computer Science, Artificial Intelligence, and Data Science. Here are some of the key courses I found most valuable:\n\nIntroduction to Algorithms\nMachine Learning\nWeb Development\n\nThese courses have equipped me with the skills to tackle complex problems and build impactful projects."
+    "text": "Hello! I’m Amiirul, a student at SIT studying Applied Artificial Intelligence. I’m passionate about technology, learning, and working on meaningful projects.\n\n\nI am currently working on my Final Year Project (FYP), which explores housing prices in Singapore with the help of AI. I’m deeply interested in Artificial Intelligence and Data Science. In my free time, I enjoy coding, photography, traveling, playing games.\n\n\n\n\n\n\nAmiirul’s Photo\n\n\n\n\n\n\n\n\n\nDuring my studies, I’ve completed courses in Computer Science, Artificial Intelligence, and Data Science. Here are some of the key courses I found most valuable:\n\nIntroduction to Algorithms\nMachine Learning\nWeb Development\n\nThese courses have equipped me with the skills to tackle complex problems and build impactful projects."
   },
   {
     "objectID": "about.html",
@@ -32,7 +32,7 @@
     "href": "index.html#short-video-introduction",
     "title": "My Personal Website",
     "section": "",
-    "text": "Click here to watch my introduction video!"
+    "text": "{{}}"
   },
   {
     "objectID": "index.html#my-fyp-project",
@@ -74,14 +74,14 @@
     "href": "FYP.html",
     "title": "FYP",
     "section": "",
-    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores [brief description of project]. Here’s a breakdown of my project’s objectives and key technologies:\n\nObjective 1: [Description]\nObjective 2: [Description]\nObjective 3: [Description]\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
+    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores housing prices with AI. Here’s a breakdown of my project’s objectives and key technologies:\n\nData Collection: Find out data collected over the years on the type of houses user buys\nTrends in Housing: Which houses are in demand\nPrice Prediction: To give a good accurate price prediction of the house in the upcoming years.\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
   },
   {
     "objectID": "FYP.html#my-fyp-project",
     "href": "FYP.html#my-fyp-project",
     "title": "FYP",
     "section": "",
-    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores [brief description of project]. Here’s a breakdown of my project’s objectives and key technologies:\n\nObjective 1: [Description]\nObjective 2: [Description]\nObjective 3: [Description]\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
+    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores housing prices with AI. Here’s a breakdown of my project’s objectives and key technologies:\n\nData Collection: Find out data collected over the years on the type of houses user buys\nTrends in Housing: Which houses are in demand\nPrice Prediction: To give a good accurate price prediction of the house in the upcoming years.\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
   },
   {
     "objectID": "hobbies.html",

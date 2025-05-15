@@ -6,11 +6,11 @@ title: "FYP"
 
 ### FYP Overview
 
-In this section, I discuss my Final Year Project titled **[HDB HAVEN]**, which explores [brief description of project]. Here's a breakdown of my project's objectives and key technologies:
+In this section, I discuss my Final Year Project titled **HDB HAVEN**, which explores housing prices with AI. Here's a breakdown of my project's objectives and key technologies:
 
-1. **Objective 1**: [Description]
-2. **Objective 2**: [Description]
-3. **Objective 3**: [Description]
+1. **Data Collection**: Find out data collected over the years on the type of houses user buys
+2. **Trends in Housing**: Which houses are in demand
+3. **Price Prediction**: To give a good accurate price prediction of the house in the upcoming years.
 
 ### Tools and Technologies Used
 
