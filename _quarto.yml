@@ -1,22 +1,27 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "temp_website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - FYP.qmd
+      - hobbies.qmd
+      - travel_experience.qmd
+      - reflection.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
+    toc-depth: 3
+    toc-location: left
 
 

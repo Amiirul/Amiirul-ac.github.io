@@ -1,0 +1,12 @@
+---
+title: "travel_experience"
+---
+
+## Travel Experiences
+
+I’ve had the privilege of traveling to several countries, including Japan and Italy. Here's how these travels have influenced me:
+
+- **Japan**: The culture of innovation in technology inspired me to pursue a career in tech.
+- **Italy**: The rich history and art influenced my interest in design and architecture.
+
+I look forward to traveling more in the future!

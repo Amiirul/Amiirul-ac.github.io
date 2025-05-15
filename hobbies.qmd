@@ -1,0 +1,12 @@
+---
+title: "hobbies"
+---
+
+## My Hobbies
+
+Outside of academics, I enjoy **coding** and **photography**. Here’s how I carry out these hobbies:
+
+- **Coding**: I work on personal projects such as developing apps and websites.
+- **Photography**: I love capturing nature, landscapes, and architecture. Check out some of my best shots below!
+
+![Nature Photo](images/outdoor_cat.jpg)

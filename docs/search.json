@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "My Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Amiirul, a student at SIT studying Applied Artificial Intelligence. I’m passionate about technology, learning, and working on meaningful projects.\n\n\nI am currently working on my Final Year Project (FYP), which explores housing prices in Singapore with the help of AI. I’m deeply interested in Artificial Intelligence and Data Science. In my free time, I enjoy coding, photography, traveling, playing games.\n\n\n\n\n\n\nAmiirul’s Photo\n\n\n\n\n\nClick here to watch my introduction video!\n\n\n\nDuring my studies, I’ve completed courses in Computer Science, Artificial Intelligence, and Data Science. Here are some of the key courses I found most valuable:\n\nIntroduction to Algorithms\nMachine Learning\nWeb Development\n\nThese courses have equipped me with the skills to tackle complex problems and build impactful projects."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,117 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "I am currently working on my Final Year Project (FYP), which explores housing prices in Singapore with the help of AI. I’m deeply interested in Artificial Intelligence and Data Science. In my free time, I enjoy coding, photography, traveling, playing games."
+  },
+  {
+    "objectID": "index.html#heres-a-picture-of-me",
+    "href": "index.html#heres-a-picture-of-me",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "Amiirul’s Photo"
+  },
+  {
+    "objectID": "index.html#short-video-introduction",
+    "href": "index.html#short-video-introduction",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "Click here to watch my introduction video!"
+  },
+  {
+    "objectID": "index.html#my-fyp-project",
+    "href": "index.html#my-fyp-project",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores [brief description of project]. Here’s a breakdown of my project’s objectives and key technologies:\n\nObjective 1: [Description]\nObjective 2: [Description]\nObjective 3: [Description]\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
+  },
+  {
+    "objectID": "index.html#my-curriculum",
+    "href": "index.html#my-curriculum",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "During my studies, I’ve completed courses in Computer Science, Artificial Intelligence, and Data Science. Here are some of the key courses I found most valuable:\n\nIntroduction to Algorithms\nMachine Learning\nWeb Development\n\nThese courses have equipped me with the skills to tackle complex problems and build impactful projects."
+  },
+  {
+    "objectID": "index.html#my-hobbies",
+    "href": "index.html#my-hobbies",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "Outside of academics, I enjoy coding and photography. Here’s how I carry out these hobbies:\n\nCoding: I work on personal projects such as developing apps and websites.\nPhotography: I love capturing nature, landscapes, and architecture. Check out some of my best shots below!\n\n\n\n\nNature Photo"
+  },
+  {
+    "objectID": "index.html#travel-experiences",
+    "href": "index.html#travel-experiences",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "I’ve had the privilege of traveling to several countries, including Japan and Italy. Here’s how these travels have influenced me:\n\nJapan: The culture of innovation in technology inspired me to pursue a career in tech.\nItaly: The rich history and art influenced my interest in design and architecture.\n\nI look forward to traveling more in the future!"
+  },
+  {
+    "objectID": "index.html#reflection-on-the-use-of-genai",
+    "href": "index.html#reflection-on-the-use-of-genai",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "In this page, I share my experience of using ChatGPT to assist with my assessment.\n\n\nI used ChatGPT, a powerful language model developed by OpenAI. I chose it because of its ability to generate coherent and well-structured responses quickly, which saved me time in writing and brainstorming ideas.\n\n\n\nChatGPT helped me:\n\nBrainstorm ideas for my website content.\nGenerate markdown syntax for adding structured content like lists, links, and images.\nRefine my writing, providing suggestions for clarity and flow.\n\n\n\n\n\nTime-saving: It helps with idea generation and draft writing.\nAssistance with structure: It suggests how to organize content effectively.\n\n\n\n\n\nContext limitation: Sometimes the suggestions don’t fully match my style or specific requirements.\nDependence on prompts: It requires clear input to give the best output.\n\n\n\n\nI believe GenAI tools like ChatGPT will be incredibly helpful in:\n\nResearch: Assisting with quick literature reviews or summarizing articles.\nWriting: Drafting emails, reports, or content ideas faster.\n\n\n\n\nOverall, GenAI tools are valuable assets for increasing productivity, but it’s essential to use them in conjunction with critical thinking."
+  },
+  {
+    "objectID": "FYP.html",
+    "href": "FYP.html",
+    "title": "FYP",
+    "section": "",
+    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores [brief description of project]. Here’s a breakdown of my project’s objectives and key technologies:\n\nObjective 1: [Description]\nObjective 2: [Description]\nObjective 3: [Description]\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
+  },
+  {
+    "objectID": "FYP.html#my-fyp-project",
+    "href": "FYP.html#my-fyp-project",
+    "title": "FYP",
+    "section": "",
+    "text": "In this section, I discuss my Final Year Project titled [HDB HAVEN], which explores [brief description of project]. Here’s a breakdown of my project’s objectives and key technologies:\n\nObjective 1: [Description]\nObjective 2: [Description]\nObjective 3: [Description]\n\n\n\n\n\nProgramming Languages: [Python, R, etc.]\nFrameworks: [TensorFlow, Flask, etc.]\nOther Tools: [Git, Docker, etc.]"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "hobbies",
+    "section": "",
+    "text": "Outside of academics, I enjoy coding and photography. Here’s how I carry out these hobbies:\n\nCoding: I work on personal projects such as developing apps and websites.\nPhotography: I love capturing nature, landscapes, and architecture. Check out some of my best shots below!\n\n\n\n\nNature Photo"
+  },
+  {
+    "objectID": "hobbies.html#my-hobbies",
+    "href": "hobbies.html#my-hobbies",
+    "title": "hobbies",
+    "section": "",
+    "text": "Outside of academics, I enjoy coding and photography. Here’s how I carry out these hobbies:\n\nCoding: I work on personal projects such as developing apps and websites.\nPhotography: I love capturing nature, landscapes, and architecture. Check out some of my best shots below!\n\n\n\n\nNature Photo"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "reflection",
+    "section": "",
+    "text": "In this page, I share my experience of using ChatGPT to assist with my assessment.\n\n\nI used ChatGPT, a powerful language model developed by OpenAI. I chose it because of its ability to generate coherent and well-structured responses quickly, which saved me time in writing and brainstorming ideas.\n\n\n\nChatGPT helped me:\n\nBrainstorm ideas for my website content.\nGenerate markdown syntax for adding structured content like lists, links, and images.\nRefine my writing, providing suggestions for clarity and flow.\n\n\n\n\n\nTime-saving: It helps with idea generation and draft writing.\nAssistance with structure: It suggests how to organize content effectively.\n\n\n\n\n\nContext limitation: Sometimes the suggestions don’t fully match my style or specific requirements.\nDependence on prompts: It requires clear input to give the best output.\n\n\n\n\nI believe GenAI tools like ChatGPT will be incredibly helpful in:\n\nResearch: Assisting with quick literature reviews or summarizing articles.\nWriting: Drafting emails, reports, or content ideas faster.\n\n\n\n\nOverall, GenAI tools are valuable assets for increasing productivity, but it’s essential to use them in conjunction with critical thinking."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "reflection",
+    "section": "",
+    "text": "In this page, I share my experience of using ChatGPT to assist with my assessment.\n\n\nI used ChatGPT, a powerful language model developed by OpenAI. I chose it because of its ability to generate coherent and well-structured responses quickly, which saved me time in writing and brainstorming ideas.\n\n\n\nChatGPT helped me:\n\nBrainstorm ideas for my website content.\nGenerate markdown syntax for adding structured content like lists, links, and images.\nRefine my writing, providing suggestions for clarity and flow.\n\n\n\n\n\nTime-saving: It helps with idea generation and draft writing.\nAssistance with structure: It suggests how to organize content effectively.\n\n\n\n\n\nContext limitation: Sometimes the suggestions don’t fully match my style or specific requirements.\nDependence on prompts: It requires clear input to give the best output.\n\n\n\n\nI believe GenAI tools like ChatGPT will be incredibly helpful in:\n\nResearch: Assisting with quick literature reviews or summarizing articles.\nWriting: Drafting emails, reports, or content ideas faster.\n\n\n\n\nOverall, GenAI tools are valuable assets for increasing productivity, but it’s essential to use them in conjunction with critical thinking."
+  },
+  {
+    "objectID": "travel_experience.html",
+    "href": "travel_experience.html",
+    "title": "travel_experience",
+    "section": "",
+    "text": "I’ve had the privilege of traveling to several countries, including Japan and Italy. Here’s how these travels have influenced me:\n\nJapan: The culture of innovation in technology inspired me to pursue a career in tech.\nItaly: The rich history and art influenced my interest in design and architecture.\n\nI look forward to traveling more in the future!"
+  },
+  {
+    "objectID": "travel_experience.html#travel-experiences",
+    "href": "travel_experience.html#travel-experiences",
+    "title": "travel_experience",
+    "section": "",
+    "text": "I’ve had the privilege of traveling to several countries, including Japan and Italy. Here’s how these travels have influenced me:\n\nJapan: The culture of innovation in technology inspired me to pursue a career in tech.\nItaly: The rich history and art influenced my interest in design and architecture.\n\nI look forward to traveling more in the future!"
   }
 ]

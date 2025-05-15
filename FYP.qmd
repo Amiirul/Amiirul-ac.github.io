@@ -1,0 +1,19 @@
+---
+title: "FYP"
+---
+
+## My FYP Project
+
+### FYP Overview
+
+In this section, I discuss my Final Year Project titled **[HDB HAVEN]**, which explores [brief description of project]. Here's a breakdown of my project's objectives and key technologies:
+
+1. **Objective 1**: [Description]
+2. **Objective 2**: [Description]
+3. **Objective 3**: [Description]
+
+### Tools and Technologies Used
+
+- **Programming Languages**: [Python, R, etc.]
+- **Frameworks**: [TensorFlow, Flask, etc.]
+- **Other Tools**: [Git, Docker, etc.]

@@ -1,11 +1,36 @@
 ---
-title: "temp_website"
+title: My Personal Website
+author: Amiirul
+date: "2025-05-15"
+format: 
+  html:
+    embed-resources: true
+    toc: true
 ---
 
-This is a Quarto website.
+# Welcome to My Personal Website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I'm **Amiirul**, a student at [SIT](https://www.singaporetech.edu.sg/) studying Applied Artificial Intelligence. I'm passionate about technology, learning, and working on meaningful projects.
 
-```{r}
-1 + 1
-```
+## About Me
+
+I am currently working on my **Final Year Project (FYP)**, which explores housing prices in Singapore with the help of AI. I'm deeply interested in **Artificial Intelligence** and **Data Science**. In my free time, I enjoy coding, photography, traveling, playing games.
+
+## Here's a picture of me:
+
+![Amiirul's Photo](images/cat.jpg)
+
+## Short Video Introduction
+
+[Click here to watch my introduction video!](https://www.youtube.com/watch?v=1zmejYRMgMM&ab_channel=Ros-AdventureCat)
+
+
+## My Curriculum
+
+During my studies, I've completed courses in **Computer Science**, **Artificial Intelligence**, and **Data Science**. Here are some of the key courses I found most valuable:
+
+1. **Introduction to Algorithms**
+2. **Machine Learning**
+3. **Web Development**
+
+These courses have equipped me with the skills to tackle complex problems and build impactful projects.
